@@ -961,4 +961,6 @@ hr{
         font-size: 2rem;
         padding:  1rem 0 ;
     }
+    .Subscribe form input[type="email"]{
+        width:30rem
 }
